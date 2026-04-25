@@ -20,8 +20,8 @@ A simple and lightweight mod for **Hollow Knight** that allows you to save and s
 
 ### Mod Menu
 You can find the **Charm Loadouts** section in the "Mods" menu. It will show the status of your slots:
-* **есть**: Build is saved in this slot.
-* **нету**: Slot is empty.
+* **True**: Build is saved in this slot.
+* **False**: Slot is empty.
 
 ---
 
