@@ -26,11 +26,11 @@ You can find the **Charm Loadouts** section in the "Mods" menu. It will show the
 ---
 
 ## Installation
-1. Install [Lumafly](https://github.com/Pr0metheus99/Lumafly) or [Scarab](https://github.com/fifty-nine/Scarab).
+1. Install [Lumafly](https://themulhima.github.io/Lumafly/).
 2. Search for **Charm Loadouts** in the mod list.
 3. Click Install.
 
 ---
 
 ## Requirements
-* [Satchel](https://github.com/Pr0metheus99/Satchel) (Dependencies will be handled automatically by Lumafly).
+* Satchel (Dependencies will be handled automatically by Lumafly).
